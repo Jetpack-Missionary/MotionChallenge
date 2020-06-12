@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#ffffff"
+    android:layout_height="match_parent"
+    app:layoutDescription="@xml/scene_jetpack"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/jetpackLogo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/jetpack_logo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/logo"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/java_logo"
+        app:altSrc="@drawable/kotlin_logo"
+        app:layout_constraintStart_toEndOf="@id/jetpackLogo"
+        app:layout_constraintTop_toTopOf="@id/jetpackLogo" />
+</androidx.constraintlayout.motion.widget.MotionLayout>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/end"
+        motion:constraintSetStart="@id/start"
+        motion:duration="5000"
+        motion:motionInterpolator="cubic(11,11,90,90)">
+       <KeyFrameSet>
+
+           <KeyCycle
+               motion:motionTarget="@+id/role2"
+               motion:framePosition="30"
+               motion:wavePeriod="1000"
+               motion:waveShape="reverseSawtooth"
+               android:translationX="10dp"
+               android:translationY="10dp"
+               motion:waveOffset="10dp" />
+           <KeyCycle
+               motion:motionTarget="@+id/role1"
+               motion:framePosition="30"
+               motion:wavePeriod="1000"
+               motion:waveShape="reverseSawtooth"
+               android:translationX="10dp"
+               android:translationY="10dp"
+               motion:waveOffset="10dp" />
+           <KeyAttribute
+               motion:motionTarget="@+id/ball1"
+               motion:framePosition="0"
+               motion:transitionPathRotate="90" />
+           <KeyAttribute
+               motion:motionTarget="@+id/ball2"
+               motion:framePosition="0"
+               motion:transitionPathRotate="90" />
+           <KeyAttribute
+               motion:motionTarget="@+id/ball1"
+               motion:framePosition="50"
+               android:scaleX="3" />
+           <KeyAttribute
+               motion:motionTarget="@+id/ball1"
+               motion:framePosition="50"
+               android:scaleY="3" />
+           <KeyAttribute
+               motion:motionTarget="@+id/role2"
+               motion:framePosition="70"
+               android:alpha="1" />
+           <KeyAttribute
+               motion:motionTarget="@+id/ball1"
+               motion:framePosition="90"
+               android:alpha="1" />
+           <KeyAttribute
+               motion:motionTarget="@+id/ball2"
+               motion:framePosition="40"
+               android:alpha="1" />
+           <KeyAttribute
+               motion:motionTarget="@+id/ball2"
+               motion:framePosition="50"
+               android:alpha="0" />
+
+       </KeyFrameSet>
+        <OnClick />
+    </Transition>
+
+    <ConstraintSet android:id="@+id/start">
+        <Constraint
+            android:id="@+id/ball1"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintTop_toTopOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintVertical_bias="0.748"
+            motion:layout_constraintHorizontal_bias="0.305" />
+        <Constraint
+            android:id="@+id/ball2"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintTop_toTopOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintVertical_bias="0.08"
+            motion:layout_constraintHorizontal_bias="0.733" />
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/end">
+        <Constraint
+            motion:layout_constraintVertical_bias="0.144"
+            android:layout_height="100dp"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toTopOf="parent"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintHorizontal_bias="0.839"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="100dp"
+            android:id="@+id/ball1"
+            android:scaleX="3"
+            android:scaleY="3"
+            android:alpha="0"/>
+        <Constraint
+            android:id="@+id/ball2"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintTop_toTopOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:alpha="0" />
+        <Constraint
+            android:id="@+id/role2"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="150dp"
+            android:layout_height="300dp"
+            motion:layout_constraintTop_toTopOf="parent"
+            android:alpha="0" />
+    </ConstraintSet>
+</MotionScene>
