@@ -7,15 +7,6 @@
         motion:constraintSetEnd="@+id/end"
         motion:constraintSetStart="@id/start"
         motion:duration="1000">
-       <KeyFrameSet>
-           <KeyCycle
-               motion:motionTarget="@+id/jetpackLogo"
-               motion:framePosition="0"
-               motion:wavePeriod="1"
-               motion:waveShape="reverseSawtooth"
-               android:translationX="10dp"
-               motion:waveOffset="0dp" />
-       </KeyFrameSet>
         <OnClick />
     </Transition>
 
