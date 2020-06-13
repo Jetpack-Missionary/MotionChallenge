@@ -32,4 +32,4 @@ Android Studio 4.0 为我们提供了全新的工具：`MotionEditor`，得益�
 
 我先来抛砖引玉
 
-![](./screenshot/demo.gif)
+![抛砖引玉](https://i.loli.net/2020/06/13/jkbmED8YTxGZF4r.gif)
