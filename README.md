@@ -2,7 +2,7 @@
 
 
 
-你好，跟高兴见到你
+很高兴见到你
 
 
 
@@ -16,7 +16,7 @@
 
 ## Motion 挑战
 
-Android Studio 4.0 为我们提供了全新的工具：`MotionEditor`，得益于它，我们创建动画变得十分简单，详情可参见一位大佬的 B站 教学视频：[详细教程](https://www.bilibili.com/video/BV1Np4y1D7rY)，[演示效果](https://www.bilibili.com/video/BV1pz411i7Ei)
+Android Studio 4.0 为我们提供了全新的工具：`MotionEditor`，得益于它，我们创建动画变得十分简单（这里提供了一份 **简洁易懂的中文视频教程**，在微信公众号 Flywith24 留言 “**挑战**” 即可获取观看链接）
 
 因此，我们在此发起一个 Motion 挑战，各位参与的小伙伴发挥你们的想象力，将你们的作品与我们分享。
 
