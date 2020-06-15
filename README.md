@@ -10,7 +10,7 @@
 
 
 
-而今天，我们的多人协作的想法又向前迈进一步，就是这—— **Motion 挑战**
+而今天，我们的多人协作的想法又向前迈进一步，就是这—— **Motion 挑战**，（如果 github 上图片无法展示，可以移步到 [掘金](https://juejin.im/post/5ee71571f265da76f0169aaf)）
 
 
 
@@ -20,11 +20,32 @@ Android Studio 4.0 为我们提供了全新的工具：`MotionEditor`，得益�
 
 在此我们发起一个 Motion 挑战，欢迎小伙伴发挥自己的想象力，将原创作品与我们分享。
 
+
 ### 参与方式
 
-- fork 该项目
+- fork [该项目](https://github.com/Jetpack-Missionary/MotionChallenge)
 - 创建自己的动画并录制显示 gif 图
-- 联系我们，我们将您的动画与项目链接展示在此项目的 README 中
+- 联系我们（联系方式后文列出），我们将您的动画与项目链接展示在此项目的 README 中并在该文章中持续更新
+
+
+
+## 联系方式
+
+可以在微信公众号内给我们留言，或者通过邮箱联系我们
+
+
+
+### KunMinX
+
+- 公众号：KunMinX
+
+- 邮箱：kunminx@gmail.com
+
+### Flywith24
+
+- 公众号：Flywith24
+
+- 邮箱：flywith24@gmail.com
 
 
 
