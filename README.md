@@ -6,7 +6,7 @@
 
 
 
-基于搞一个多人协作项目的想法，我们首先找到一个切入点：提供了 [开源项目：Jetpack 从 Java 到 Kotlin 无痛上车指南](https://juejin.im/post/5edf3397e51d4578587769ca)
+基于搞一个多人协作项目的想法，我们首先找到一个切入点：提供了 [Jetpack | 让人眼前一亮的 Java Kotlin 1:1 对照示例](https://juejin.im/post/5edf3397e51d4578587769ca)
 
 
 
