@@ -51,9 +51,15 @@ Android Studio 4.0 为我们提供了全新的工具：`MotionEditor`，得益�
 
 ## 作品展示
 
-我先来抛砖引玉
+我们先来抛砖引玉
 
-![抛砖引玉](https://i.loli.net/2020/06/13/jkbmED8YTxGZF4r.gif)
+|                       不要和孙家人对波                       | [PureMusic](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![抛砖引玉](https://i.loli.net/2020/06/13/jkbmED8YTxGZF4r.gif) | ![Untitled4.gif](https://i.loli.net/2020/07/28/BZoj1n4dSQYFbkc.gif) |
+
+
+
+
 
 感觉如何？😉 
 
@@ -65,18 +71,14 @@ Android Studio 4.0 为我们提供了全新的工具：`MotionEditor`，得益�
 
 按投稿先后顺序排列
 
-### [反魂蝶五分](https://juejin.im/user/57b6a5e4a633bd00664e6bb6)
+| 作者     | [反魂蝶五分](https://juejin.im/user/57b6a5e4a633bd00664e6bb6) | [NameZIKANG](https://github.com/NameZIKANG)            |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------ |
+| 作品链接 | https://github.com/LGD2009/MotionLayoutExample               | https://github.com/NameZIKANG/-MotionLayoutDemo        |
+| Gif 录屏 | ![](https://user-gold-cdn.xitu.io/2019/7/4/16bbbd6ceb97ea29?imageslim) | ![](https://i.loli.net/2020/07/27/wNsGBDF6RimS1Vt.gif) |
 
-![](https://user-gold-cdn.xitu.io/2019/7/4/16bbbd6ceb97ea29?imageslim)
 
 
 
-[项目地址](https://github.com/LGD2009/MotionLayoutExample)
 
-### [NameZIKANG](https://github.com/NameZIKANG)
-
-![](https://i.loli.net/2020/07/27/wNsGBDF6RimS1Vt.gif)
-
-https://github.com/NameZIKANG/-MotionLayoutDemo
 
 
