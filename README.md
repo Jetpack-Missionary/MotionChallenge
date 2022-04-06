@@ -61,7 +61,7 @@ Android Studio 4.0 为我们提供了全新的工具：`MotionEditor`，得益�
 
 
 
-感觉如何？😉
+感觉如何？
 
 其实该动画的编写十分简单。这里提供了一份 **简洁易懂的中文视频教程**，在微信公众号 Flywith24 留言 “**挑战**” 即可获取观看链接。
 
@@ -71,11 +71,11 @@ Android Studio 4.0 为我们提供了全新的工具：`MotionEditor`，得益�
 
 按投稿先后顺序排列
 
-| 作者     | [反魂蝶五分](https://juejin.im/user/57b6a5e4a633bd00664e6bb6) | [NameZIKANG](https://github.com/NameZIKANG)            |
+| 作品名称     | 作品链接 | 效果图           |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------ |
-| 作品链接 | https://github.com/LGD2009/MotionLayoutExample               | https://github.com/NameZIKANG/-MotionLayoutDemo        |
-| Gif 录屏 | ![](https://user-gold-cdn.xitu.io/2019/7/4/16bbbd6ceb97ea29?imageslim) | ![](https://i.loli.net/2020/07/27/wNsGBDF6RimS1Vt.gif) |
-| 卡片抽取效果 | ![](https://github.com/8kEatRadish/MotionChallenge) | ![](https://raw.githubusercontent.com/8kEatRadish/MotionChallenge/master/device-2022-03-30-152117.gif) |
+| MotionLayoutExample | https://github.com/LGD2009/MotionLayoutExample               |   ![](https://camo.githubusercontent.com/46eac44ae95fc53e32e104750d0984823a0ede5acdd729880956388e548db033/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139303730333133343431313539362e676966)      |
+| 飞机大战 | https://github.com/NameZIKANG/-MotionLayoutDemo | ![](https://i.loli.net/2020/07/27/wNsGBDF6RimS1Vt.gif) |
+| 卡片抽取效果 | https://github.com/8kEatRadish/MotionChallenge | ![](https://raw.githubusercontent.com/8kEatRadish/MotionChallenge/master/device-2022-03-30-152117.gif) |
 
 
 
