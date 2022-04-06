@@ -75,6 +75,8 @@ Android Studio 4.0 为我们提供了全新的工具：`MotionEditor`，得益�
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------ |
 | 作品链接 | https://github.com/LGD2009/MotionLayoutExample               | https://github.com/NameZIKANG/-MotionLayoutDemo        |
 | Gif 录屏 | ![](https://user-gold-cdn.xitu.io/2019/7/4/16bbbd6ceb97ea29?imageslim) | ![](https://i.loli.net/2020/07/27/wNsGBDF6RimS1Vt.gif) |
+| 卡片抽取效果 | ![](https://github.com/8kEatRadish/MotionChallenge) | ![](https://raw.githubusercontent.com/8kEatRadish/MotionChallenge/master/device-2022-03-30-152117.gif) |
+
 
 
 
